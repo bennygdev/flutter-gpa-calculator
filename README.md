@@ -1,6 +1,6 @@
-# madproject_20_gohhaiguanbenny
+# Flutter GPA Calculator
 
-A new Flutter project.
+A GPA Calculator made using flutter for a school project.
 
 ## Getting Started
 
